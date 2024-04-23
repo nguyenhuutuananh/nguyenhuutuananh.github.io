@@ -1,0 +1,14 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.avatar-block {
+    margin-top: -75px;
+}
+
+.work-history .work-item h3::before, .education-history .education-item h3::before {
+    font-family: "Font Awesome 5 Free";
+    content: '\f111';
+    color: #1e3a8a;
+    margin-left: -27px;
+}
