@@ -1,3 +1,10 @@
+/* @media print {
+    body{
+        width: 21cm;
+        height: 29.7cm;
+   } 
+} */
+
 body {
     font-family: 'Open Sans', sans-serif;
 }
